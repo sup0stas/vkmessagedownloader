@@ -22,12 +22,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The project uses:
-FileSaver.js
- A saveAs() FileSaver implementation.
- 1.3.2
- 2016-06-16 18:25:19
- 
- By Eli Grey, http://eligrey.com
- License: MIT
-   See https://github.com/eligrey/FileSaver.js/blob/master/LICENSE.md
